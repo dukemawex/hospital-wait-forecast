@@ -1,0 +1,2 @@
+"""Hospital Wait Forecast package."""
+__version__ = "0.1.0"
